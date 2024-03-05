@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: Home
+site_url: https://example.com/
+nav:
+  - Maturini otazky: index.md
+  - Maturini otazky: hodina.md
+
+theme:
+    name: nature
